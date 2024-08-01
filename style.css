@@ -41,36 +41,40 @@ form input{
     background-color: orange;
     color: white;
     transition: 0.3s;
+    
 }
 
 .btn-yellow:hover{
     background-color: red;
     color: white;
     transition: 0.3s;
+    
 }
 
 .btn-equal:hover{
     background-color: red;
     color: white;
     transition: 0.3s;
+    
 }
 
 .btn-clear:hover{
     background-color: red;
     color: white;
     transition: 0.3s;
+    
 }
 
 .btn-grey:hover{
     background-color: grey;
     color: white;
     transition: 0.3s;
+    
 }
 
 button{
     flex: 0, 0, 22%;
     margin: 5px 0;
-    border: 1px solid #000;
     width: 60px;
     height: 52px;
     font-size: 22px;
