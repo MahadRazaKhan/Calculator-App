@@ -6,12 +6,12 @@ This **Calculator App** is a simple, responsive, and user-friendly tool for perf
 
 ---
 
-## 🌟 Features
+## Features
 
-- ➕ **Basic Arithmetic**: Supports addition, subtraction, multiplication, and division.
-- 📱 **Responsive Design**: Optimized for desktops, tablets, and mobile devices.
-- 🎨 **Clean UI**: Minimalistic and modern interface for easy usage.
-- 💾 **Lightweight**: Fast and efficient with no external dependencies.
+- **Basic Arithmetic**: Supports addition, subtraction, multiplication, and division.
+- **Responsive Design**: Optimized for desktops, tablets, and mobile devices.
+- **Clean UI**: Minimalistic and modern interface for easy usage.
+- **Lightweight**: Fast and efficient with no external dependencies.
 
 ---
   
@@ -19,7 +19,7 @@ This **Calculator App** is a simple, responsive, and user-friendly tool for perf
 
 ---
 
-## 🚀 Technologies Used
+## Technologies Used
 
 - **HTML5** for structuring the app.
 - **CSS3** for styling and responsive design.
